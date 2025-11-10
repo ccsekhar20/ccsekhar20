@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Chaitanya 👋
 
-<!--
-**ccsekhar20/ccsekhar20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS @ UW.  
+I like algorithms, clean code, and running when the weather’s decent.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**About:**
+- Occasionally build cool things.  
+- Python, Java, C++, sometimes Ruby.
+
+---
+
+**Active:**  
+- Husky's Guide to the Ave
+- The Internet Garden
+
+---
+
+> That’s pretty much it.  
+> Reach out if you want to talk code, projects, or weird algorithms.

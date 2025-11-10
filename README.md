@@ -1,12 +1,12 @@
 # Hi, I'm Chaitanya 👋
 
 CS @ UW.  
-I like algorithms, clean code, and running when the weather’s decent.
+I like odd algorithms, trippy UI, and running when the weather’s decent.
 
 ---
 
 **About:**
-- Occasionally build cool things.  
+- Occasionally build cool things.
 - Python, Java, C++, sometimes Ruby.
 
 ---

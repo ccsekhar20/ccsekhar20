@@ -1,21 +1,14 @@
-# Hi, I'm Chaitanya 👋
+# Hey, I’m Chaitanya 👋
 
-CS @ UW.  
-I like odd algorithms, trippy UI, and running when the weather’s decent.
+**CS + Business @ UW**  
+Building useful things and experimenting with AI.
 
----
+`Applied AI` · `Data Systems` · `Product Design`
 
-**About:**
-- Occasionally build cool things.
-- Python, Java, C++, sometimes Ruby.
+<br>
 
----
+When I’m not coding, I’m probably climbing, at the gym, watching a movie, or attempting to cook something new.
 
-**Active:**  
-- Husky's Guide to the Ave
-- The Internet Garden
+<br>
 
----
-
-> That’s pretty much it.  
-> Reach out if you want to talk code, projects, or weird algorithms.
+> Always down to talk projects, ideas, or anything interesting.
